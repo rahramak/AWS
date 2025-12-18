@@ -36,3 +36,4 @@ jobs:
       working-directory: test-s3
       run: |
         terraform apply -auto-approve
+        
